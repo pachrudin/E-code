@@ -1,15 +1,15 @@
-# sundanese
-
-(sunda)
-
-sundanese nyaeta sebuah tools nu ngababariken maraneh nginstall tools tools sajabana
+gunanya pikir aja sendiri buat Apa Kentod:v 
 
 
 
-┈┈┈┈┈┈▕▔╲
-┈┈┈┈┈┈┈▏▕
-┈┈┈┈┈┈┈▏▕▂▂▂
-▂▂▂▂▂▂╱┈▕▂▂▂▏
-▉▉▉▉▉┈┈┈▕▂▂▂▏
-▉▉▉▉▉┈┈┈▕▂▂▂▏
-▔▔▔▔▔▔╲▂▕▂▂▂I
+     
+      ----------------------------
+     (                        ( . ) 
+      --    _    -----------------
+        (__) (__) 
+
+####  ####  ##    #  ######  #####  ######
+#     #     # #   #    #     #   #    #
+####  ####  #  #  #    #     #   #    #
+   #  #     #   # #    #     #   #    #
+###   ####  #     #    #     # ###    #
